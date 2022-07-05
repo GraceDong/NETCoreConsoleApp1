@@ -1,0 +1,12 @@
+{
+    "title": "Example",
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "additionalProperties": false,
+    "properties": {
+        "foo": {
+            "type": "string"
+        },
+        "$schema": {}
+    },
+    "required": [ "$schema", "foo" ]
+}
