@@ -4,7 +4,7 @@
     "additionalProperties": false,
     "properties": {
         "foo": {
-            "type": "array"
+            "type": "string"
         },
         "$schema": {}
     },
